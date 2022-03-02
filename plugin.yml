@@ -1,0 +1,5 @@
+name: HCF PMM3
+author: iBryMax and Theboss
+main: DiverHCF\Loader
+version: 1.0.0
+api: [3.2.3]
